@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1645387664385" clover="3.2.0">
+  <project timestamp="1645387664386" name="All files">
+    <metrics statements="31" coveredstatements="23" conditionals="19" coveredconditionals="13" methods="14" coveredmethods="5" elements="64" coveredelements="41" complexity="0" loc="31" ncloc="31" packages="1" files="2" classes="2"/>
+    <file name="GraphGeneric.ts" path="/mypart/tmc/projects/gabby-predicate-tree/src/graph/GraphGeneric.ts">
+      <metrics statements="30" coveredstatements="23" conditionals="19" coveredconditionals="13" methods="13" coveredmethods="5"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="51" count="8" type="stmt"/>
+      <line num="52" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="53" count="3" type="stmt"/>
+      <line num="55" count="8" type="stmt"/>
+      <line num="56" count="8" type="stmt"/>
+      <line num="57" count="8" type="stmt"/>
+      <line num="64" count="8" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="79" count="17" type="stmt"/>
+      <line num="88" count="43" type="stmt"/>
+      <line num="89" count="43" type="cond" truecount="4" falsecount="0"/>
+      <line num="90" count="17" type="stmt"/>
+      <line num="93" count="26" type="cond" truecount="2" falsecount="2"/>
+      <line num="95" count="0" type="stmt"/>
+      <line num="98" count="26" type="cond" truecount="1" falsecount="1"/>
+      <line num="99" count="26" type="cond" truecount="1" falsecount="1"/>
+      <line num="100" count="26" type="stmt"/>
+      <line num="105" count="26" type="cond" truecount="3" falsecount="1"/>
+      <line num="106" count="0" type="stmt"/>
+      <line num="109" count="26" type="stmt"/>
+      <line num="112" count="0" type="stmt"/>
+      <line num="116" count="8" type="stmt"/>
+    </file>
+    <file name="index.ts" path="/mypart/tmc/projects/gabby-predicate-tree/src/graph/index.ts">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
